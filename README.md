@@ -48,7 +48,8 @@ Models are evaluated using:
 - **Scikit-learn**: Machine learning models
 - **Jupyter Notebook**: Development environment
 
-## 📂 Project Structure
+## 📂 Python Notebook
+Python Notebook: [Predicting car model price using Linear, Ridge, Lasso and Polynomial Features](https://github.com/amiteshks/predictive_analytics_auto_pricing/blob/main/Predicting%20car%20model%20price%20using%20Linear%2C%20Ridge%2C%20Lasso%20and%20Polynomial%20Features.ipynb)
 
 # 📌 Project Outcome
 Our models indicate that the **following factors most strongly impact used car prices**:
